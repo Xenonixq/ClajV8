@@ -5,7 +5,7 @@ author: "[#ace3f3]Xenonix"
 main: com.xpdustry.claj.client.Main
 description:Adds Claj protocol for Mindustry 157.4 and later builds.
 version: "2.3.2"
-minGameVersion: "157.4"
+minGameVersion: "157"
 java: true
 hidden: true
 repo: Xenonixq/ClajV8
